@@ -80,9 +80,7 @@ After applying feature engineering techniques:
 ---
 
 ## 👩‍💻 Author
-**Ruchi Sankhla**  
-MCA Student, Lachoo Memorial College of Science & Technology, Jodhpur  
-DRDO Internship Project (2025)  
+**Ruchi Sankhla**   
 *Feature Engineering and Data Preprocessing using Python*
 
 ---
@@ -90,3 +88,4 @@ DRDO Internship Project (2025)
 ## 🔗 Dataset Source
 **Kaggle:** [Employee Attrition Prediction Dataset](https://www.kaggle.com)  
 *(You can replace this link with the exact dataset link you used.)*
+
