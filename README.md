@@ -1,13 +1,13 @@
 #Feature Engineering Project — Employee Attrition Prediction
 
-##Project Overview
+#Project Overview
 This project focuses on performing **Feature Engineering** on the **Employee Attrition Prediction Dataset** obtained from Kaggle.  
 The goal of this project is to clean, preprocess, and transform raw HR data into a structured format suitable for predictive modeling.  
 All the tasks were carried out using **Python** in **Jupyter Notebook**.
 
 ---
 
-##Objectives
+#Objectives
 - To handle missing, duplicate, and noisy data.  
 - To detect and treat outliers.  
 - To encode categorical variables for machine learning compatibility.  
@@ -16,7 +16,7 @@ All the tasks were carried out using **Python** in **Jupyter Notebook**.
 
 ---
 
-##Tools & Libraries Used
+#Tools & Libraries Used
 - Python  
 - Pandas  
 - NumPy  
@@ -26,7 +26,7 @@ All the tasks were carried out using **Python** in **Jupyter Notebook**.
 
 ---
 
-##Folder Structure
+#Folder Structure
 
 feature-engineering-project/
 │
@@ -38,30 +38,30 @@ feature-engineering-project/
 
 ---
 
-##Steps Performed
+#Steps Performed
 
-###Data Cleaning  
+#Data Cleaning  
 - Removed irrelevant columns such as *Employee_ID*.  
 - Handled missing values using mean, median, and mode imputation.  
 - Treated noisy data (e.g., unrealistic values like age > 100).  
 - Removed duplicate records.
 
-###Data Encoding  
+#Data Encoding  
 - Converted categorical columns using **Label Encoding** and **One-Hot Encoding**.
 
-###Feature Scaling  
+#Feature Scaling  
 - Applied **StandardScaler** and **MinMaxScaler** for normalization and standardization.
 
-###Feature Transformation  
+#Feature Transformation  
 - Created new derived features (like total working years, experience level, etc.).  
 - Applied **binning** for continuous variables (e.g., salary categories → Low, Medium, High).
 
-###Feature Selection  
+#Feature Selection  
 - Used **Correlation Matrix** and **Feature Importance** to identify relevant features.
 
 ---
 
-##Results
+#Results
 After applying feature engineering techniques:
 - The dataset became clean, consistent, and ready for model training.  
 - Outliers were reduced, and scaling improved uniformity across features.  
@@ -69,24 +69,23 @@ After applying feature engineering techniques:
 
 ---
 
-##Files Description
+#Files Description
 | File Name | Description |
 |------------|-------------|
 | `feature_engineering.ipynb` | Main Jupyter notebook containing the complete analysis |
 | `theory_report.pdf` | Document explaining theoretical background and observations |
 | `README.md` | Overview of the entire project |
-| `data/` | Folder containing dataset (if applicable) |
+| `data/` | Folder containing dataset |
 
 ---
 
 Author
-**Ruchi Sankhla**   
-*Feature Engineering and Data Preprocessing using Python*
+Ruchi Sankhla   
+Feature Engineering and Data Preprocessing using Python.
 
 ---
 
 🔗 Dataset Source
-**Kaggle:** [Employee Attrition Prediction Dataset](https://www.kaggle.com)  
-*(You can replace this link with the exact dataset link you used.)*
+Kaggle:[Employee Attrition Prediction Dataset](https://www.kaggle.com)  
 
 
