@@ -73,7 +73,6 @@ After applying feature engineering techniques:
 | File Name | Description |
 |------------|-------------|
 | `feature_engineering.ipynb` | Main Jupyter notebook containing the complete analysis |
-| `theory_report.pdf` | Document explaining theoretical background and observations |
 | `README.md` | Overview of the entire project |
 | `data/` | Folder containing dataset |
 
@@ -87,5 +86,6 @@ Feature Engineering and Data Preprocessing using Python.
 
 🔗 Dataset Source
 Kaggle:[Employee Attrition Prediction Dataset](https://www.kaggle.com)  
+
 
 
