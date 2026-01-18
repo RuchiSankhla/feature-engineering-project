@@ -26,16 +26,6 @@ All the tasks were carried out using **Python** in **Jupyter Notebook**.
 
 ---
 
-#Folder Structure
-
-feature-engineering-project/
-│
-├── feature_engineering.ipynb # Main notebook with all code and outputs
-├── theory_report.pdf # Theory report or documentation
-├── README.md # Project overview (this file)
-└── data/ # Dataset files 
-
-
 ---
 
 #Steps Performed
@@ -86,6 +76,7 @@ Feature Engineering and Data Preprocessing using Python.
 
 🔗 Dataset Source
 Kaggle:[Employee Attrition Prediction Dataset](https://www.kaggle.com)  
+
 
 
 
