@@ -24,10 +24,6 @@ All the tasks were carried out using **Python** in **Jupyter Notebook**.
 - Seaborn  
 - Scikit-learn  
 
----
-
----
-
 #Steps Performed
 
 #Data Cleaning  
@@ -76,6 +72,7 @@ Feature Engineering and Data Preprocessing using Python.
 
 🔗 Dataset Source
 Kaggle:[Employee Attrition Prediction Dataset](https://www.kaggle.com)  
+
 
 
 
